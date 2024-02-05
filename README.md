@@ -4,6 +4,8 @@
 
 Der Baustein triggert zu bis zu zwei Uhrzeiten.
 
+Spenden sind gerne [hier](https://www.paypal.com/paypalme/reinhardsocha) willkommen
+
 ## Eingänge
 
 | Nr. | Name              | Initialisierung   | Beschreibung                                                                         |
